@@ -1,6 +1,6 @@
 # PL-Marker++
 
-This repository contains source code for PL-Marker++, information extraction model for radiology reports used in our paper "_A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models_" (Accepted @ LREC-COLING2024).
+This repository contains source code for PL-Marker++, information extraction model for radiology reports used in our paper "_A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models_" (Accepted @ LREC-COLING2024, repo: https://github.com/uw-bionlp/CAMIR).
 
 Example input, output data are not included (will be added upon IRB approval).
 PL-Marker++, which is the augmented version of PL-Marker, provides the classification of subtypes for extracted entities.
