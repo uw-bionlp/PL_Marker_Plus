@@ -27,7 +27,7 @@ Original PL-Marker implementation can be found at https://github.com/thunlp/PL-M
 ## Step 3. Put radiology reports in "sample_data" folder
 
  - Input radiology reports should be located in ./sample_data using .txt file format
- - sample.txt is randomly selected from [mtsamples]{https://mtsamples.com/site/pages/sample.asp?Type=95-Radiology&Sample=1403-CT%20Abdomen%20&%20Pelvis%20-%202} radiology report (open-source radiology reports)
+ - sample.txt is randomly selected from [mtsamples](https://mtsamples.com/site/pages/sample.asp?Type=95-Radiology&Sample=1403-CT%20Abdomen%20&%20Pelvis%20-%202) radiology report (open-source radiology reports)
 
 ## Step 4. Run shell script
 
