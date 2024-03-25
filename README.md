@@ -1,7 +1,8 @@
 # PL-Marker++
 
 This repository contains source code for PL-Marker++, used in our paper _A Novel Corpus of Annotated Medical Imaging Reports and Information Extraction Results Using BERT-based Language Models_ (Accepted @ LREC-COLING2024).
-Example input data are not included.
+
+Example input, output data are not included (will be added upon IRB approval).
 PL-Marker++, which is the augmented version of PL-Marker, provides the classification of subtypes for extracted entities.
 
 Original PL-Marker implementation can be found at https://github.com/thunlp/PL-Marker
@@ -36,3 +37,7 @@ Original PL-Marker implementation can be found at https://github.com/thunlp/PL-M
     - Output with only entity extraction can be found in "./incidentaloma_models/PL-Marker-incidentaloma-bertbase-45/example_input_ent_pred_test.json"
     - Output with entity+subtype extraction can be found in "./example_input_ent_pred_test_normalized.json"
  - All predictions are performed in sentence-level.
+
+## Contact
+
+- Namu Park (npark95@uw.edu)
